@@ -1,0 +1,11 @@
+[
+    {
+      "url": "https://animated-gingersnap-8cf7f2.netlify.app/",
+      "email": "admin",
+      "password": "password123",
+      "expectedOutcome": "success",
+      "webAppLinkText": "Web Application",
+      "todoTask": "Implement user authentication",
+      "tags": ["Feature", "High Priority"]
+    }
+  ]
